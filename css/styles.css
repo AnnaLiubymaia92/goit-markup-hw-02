@@ -12,11 +12,6 @@ a {
 button {
   cursor: pointer;
 }
-
-img {
-  display: block;
-}
-
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
@@ -102,13 +97,21 @@ letter-spacing: 0.02em;
 .team-section {
     background-color: #F4F4FD;
 }
+.team-title{color: #2e2f42;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+}
 .team-list{
     background-color: #FFFFFF;
 }
 .team-list-title{color: #2e2f42;
 font-weight: 500;
 font-size: 20px;
-line-height: 1.11;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 }
@@ -119,7 +122,7 @@ letter-spacing: 0.02em;
 }
 /* =========== /Our Team Section styles =========== */
 /* =========== Our Portfolio Section styles =========== */
-.portfolio-titlle{color: #2e2f42;
+.portfolio-title{color: #2e2f42;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -129,7 +132,7 @@ text-transform: capitalize;
 .portfolio-list-title{color: #2e2f42;
 font-weight: 500;
 font-size: 20px;
-line-height: 1.11;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 }
