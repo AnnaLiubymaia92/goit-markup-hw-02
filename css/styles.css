@@ -113,20 +113,39 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 }
-.team-list-text{color: #434455;
+.team-list-text{
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
 /* =========== /Our Team Section styles =========== */
 /* =========== Our Portfolio Section styles =========== */
+.portfolio-titlle{color: #2e2f42;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+}
+.portfolio-list-title{color: #2e2f42;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+.portfolio-list-text{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
 
 /* =========== Our Portfolio Section styles =========== */
 /* =========== Footer styles =========== */
-.page-footer{
+.page-footer{color: #f4f4fd;
     background-color: #2E2F42;
 }
-.logo-footer {color: #f4f4fd;
+.logo-footer {color: #4d5ae5;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
@@ -134,8 +153,17 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
-.page-footer-text{color: #f4f4fd;
-    font-size: 16px;
+.logo-part-footer{color: #f4f4fd;
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+}
+.page-footer-text{
+font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
